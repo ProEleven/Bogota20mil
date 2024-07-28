@@ -1,4 +1,4 @@
-const redirectUrl = "https://lolycam4.netlify.app/";
+const redirectUrl = "https://bogotamodel.netlify.app/";
 
 // Detect if the user is on a mobile device
 function isMobile() {
